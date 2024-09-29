@@ -10,3 +10,4 @@ var = createwindow # makes a window
 window.screen(500, 500) # makes the size of the window
 window.background('gold') # changes the background to any color
 ```
+# Video
