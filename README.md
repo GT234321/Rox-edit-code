@@ -11,3 +11,4 @@ window.screen(500, 500) # makes the size of the window
 window.background('gold') # changes the background to any color
 ```
 # Video
+file:///C:/Users/maksp/Videos/Desktop/Desktop%202024.09.29%20-%2020.15.00.01.mp4
